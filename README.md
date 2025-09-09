@@ -1,7 +1,21 @@
 <div align="center">
-  <img src="https_url_logo_ukirama_disini" alt="Ukirama Logo" width="100"/>
-  <h1>Afsar Rakha Farrasandi</h1>
-  <p><strong>Software Engineer at Ukirama</strong></p>
+  
+  <h1>Hi 👋, I'm Afsar Rakha Farrasandi</h1>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=4000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Final-Year+Information+Systems+Student;Passionate+Software+Engineer;UI%2FUX+Enthusiast;Building+Purposeful+Digital+Experiences" alt="Typing SVG" /></a>
+
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/afsar-rakha-farrasandi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:afsarrakha140604@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://afsarrakha.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio Website-32B85A?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio Website"/>
+  </a>
 </div>
 
 ---
